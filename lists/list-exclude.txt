@@ -24,12 +24,7 @@ akamaitechnologies.com
 2ip.ru
 yandex.ru
 boosty.to
-dl.tradingpaints.com
-dl1.tradingpaints.gg
-dl2.tradingpaints.gg
-showroom-assets.tradingpaints.gg
-update.tradingpaints.gg
-fetch.tradingpaints.gg
+
 netease.com
 neteasegames.com
 oncehuman.com
