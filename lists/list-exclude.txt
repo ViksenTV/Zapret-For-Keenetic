@@ -30,3 +30,8 @@ dl2.tradingpaints.gg
 showroom-assets.tradingpaints.gg
 update.tradingpaints.gg
 fetch.tradingpaints.gg
+netease.com
+neteasegames.com
+oncehuman.com
+easebar.com
+aliyuncsslbintl.com
